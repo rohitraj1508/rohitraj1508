@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohitraj1508
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning networking
-- 💞️ I’m looking to collaborate on kali linux project 
+- 👀 I’m interested in cyber security and frontend development.
+- 🌱 I’m currently learning networking and html css .
+- 💞️ I’m looking to collaborate on projects. 
 - 📫 How to reach me just message me 
 
 <!---
